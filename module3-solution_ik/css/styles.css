@@ -5,12 +5,12 @@
   border-color: black;
 }
 
-.nav-brand {
-	text-color: black;
-}
-
 nav {
 	background-color: #BBBBBB;
+}
+
+.navbar-brand {
+	text-color: black;
 }
 
 .row {
