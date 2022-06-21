@@ -28,19 +28,5 @@ h2 {
 }
 
 p {
-	margin: auto;
-}
-
-nav ul {
-    margin: 0;
-    padding: 0;
-}
-
-nav ul li {
-	list-style-type: none;
-	display: inline;
-}
-
-nav li:not(:first-child):before {
-	content:  " | ";
+	padding: 5px;
 }
