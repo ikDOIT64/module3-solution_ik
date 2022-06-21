@@ -9,8 +9,8 @@ nav {
 	background-color: #BBBBBB;
 }
 
-.navbar-brand {
-	text-color: black;
+nav a .navbar-brand { 
+	color: black; 
 }
 
 .row {
